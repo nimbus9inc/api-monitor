@@ -1,7 +1,7 @@
 url: https://api.nimbus9.io/v2/billing/health
 status: up
 code: 200
-responseTime: 40
-lastUpdated: 2021-09-16T22:46:40.822Z
+responseTime: 84
+lastUpdated: 2021-09-16T22:49:17.804Z
 startTime: Thu Sep 16 2021 22:44:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

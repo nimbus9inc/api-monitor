@@ -5,14 +5,14 @@ repo: api-monitor # The name of this repository
 sites:
   - name: Nimbus9 API
     url: https://api.nimbus9.io
-    icon: logoUrl: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
+    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
   - name: Unifi Enterprise
     url: https://unifi-enterprise.nimbus9.io
   - name: Environment Quality Management
     url: https://eqm.nimbus9.io
   - name: Site Admin Panel
     url: https://admin.nimbus9.io
-  
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -21,7 +21,7 @@ status-website:
   logoUrl: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
   name: Nimbus9, Inc.
   introTitle: "Service monitoring and uptime for the Unifi Platform"
-  introMessage: 
+  introMessage:
   navbar:
     - title: Status
       href: /

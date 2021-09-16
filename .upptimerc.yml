@@ -3,30 +3,114 @@ owner: nimbus9inc # Your GitHub organization or username, where this repository 
 repo: api-monitor # The name of this repository
 
 sites:
-  - name: Nimbus9 API
+
+  # Static sites
+  - name: Nimbus9 API Documentation
     url: https://api.nimbus9.io
     icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
+
   - name: Unifi Enterprise
     url: https://unifi-enterprise.nimbus9.io
+    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
+
   - name: Environment Quality Management
     url: https://eqm.nimbus9.io
+    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
+
   - name: Site Admin Panel
     url: https://admin.nimbus9.io
+    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
+
+  - name: Partner Quoting Tool
+    url: https://quote.nimbus9.io
+    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
+
+  # SSO
+  - name: Nimbus9 SSO
+    url: https://sso.nimbus9.io
+    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
+
+  # API Services
+  - name: Nimbus9 Auth API
+    url: https://api.nimbus9.io/v2/auth/health
+    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
+
+  - name: Nimbus9 Automated Demand Response API
+    url: https://api.nimbus9.io/v2/adr/health
+    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
+
+  - name: Nimbus9 Audit API
+    url: https://api.nimbus9.io/v2/audit/health
+    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
+
+  - name: Nimbus9 Billing API
+    url: https://api.nimbus9.io/v2/billing/health
+    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
+
+  - name: Nimbus9 Device Commissioning API
+    url: https://api.nimbus9.io/v2/commission/health
+    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
+
+  - name: Nimbus9 Device Control API
+    url: https://api.nimbus9.io/v2/control/health
+    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
+
+  - name: Nimbus9 Event->Condition->Action API
+    url: https://api.nimbus9.io/v2/eca/health
+    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
+
+  - name: Nimbus9 Floorplan API
+    url: https://api.nimbus9.io/v2/floorplan/health
+    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
+
+  - name: Nimbus9 HVAC API
+    url: https://api.nimbus9.io/v2/hvac/health
+    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
+
+  - name: Nimbus9 Metrics API
+    url: https://api.nimbus9.io/v2/metrics/health
+    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
+
+  - name: Nimbus9 Notification API
+    url: https://api.nimbus9.io/v2/notification/health
+    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
+
+  - name: Nimbus9 Passport API
+    url: https://api.nimbus9.io/v2/passport/health
+    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
+
+  - name: Nimbus9 Quote API
+    url: https://api.nimbus9.io/v2/quote/health
+    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
+
+  - name: Nimbus9 Reporting API
+    url: https://api.nimbus9.io/v2/report/health
+    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
+
+  - name: Nimbus9 Routine Schedule API
+    url: https://api.nimbus9.io/v2/astro/health
+    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
+
+  - name: Nimbus9 Smart Control API
+    url: https://api.nimbus9.io/v2/smart-control/health
+    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
+
+  - name: Nimbus9 Switch/Sensor API
+    url: https://api.nimbus9.io/v2/switch-sensor/health
+    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
+
+  - name: Nimbus9 Client Update API
+    url: https://api.nimbus9.io/v2/update/health
+    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.nimbus9.io
-  #baseUrl: /api-monitor
   logoUrl: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
   name: Nimbus9, Inc.
-  introTitle: "Service monitoring and uptime for the Unifi Platform"
+  introTitle: "Unifi Platform Service Monitoring"
   introMessage:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+#    - title: GitHub
+#      href: https://github.com/$OWNER/$REPO

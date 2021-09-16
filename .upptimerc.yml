@@ -59,8 +59,8 @@ sites:
     url: https://api.nimbus9.io/v2/eca/health
     icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
 
-  - name: Nimbus9 Floorplan API
-    url: https://api.nimbus9.io/v2/floorplan/health
+  - name: Nimbus9 Floor Plan API
+    url: https://api.nimbus9.io/v2/floor-plan/health
     icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
 
   - name: Nimbus9 HVAC API

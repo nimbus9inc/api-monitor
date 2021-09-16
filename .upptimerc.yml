@@ -83,6 +83,10 @@ sites:
     url: https://api.nimbus9.io/v2/quote/health
     icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
 
+  - name: Nimbus9 Real-time Update API
+    url: https://api.nimbus9.io/v2/update/health
+    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
+
   - name: Nimbus9 Reporting API
     url: https://api.nimbus9.io/v2/report/health
     icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
@@ -97,10 +101,6 @@ sites:
 
   - name: Nimbus9 Switch/Sensor API
     url: https://api.nimbus9.io/v2/switch-sensor/health
-    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
-
-  - name: Nimbus9 Client Update API
-    url: https://api.nimbus9.io/v2/update/health
     icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
 
 status-website:

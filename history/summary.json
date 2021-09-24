@@ -112,19 +112,19 @@
     "url": "https://api.nimbus9.io/v2/auth/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-auth-api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 200,
-    "timeDay": 67,
-    "timeWeek": 184,
-    "timeMonth": 200,
-    "timeYear": 200,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 188,
+    "timeDay": 64,
+    "timeWeek": 169,
+    "timeMonth": 188,
+    "timeYear": 188,
     "dailyMinutesDown": {
-      "2021-09-24": 1
+      "2021-09-24": 25
     }
   },
   {
@@ -132,19 +132,19 @@
     "url": "https://api.nimbus9.io/v2/adr/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-automated-demand-response-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 50,
-    "timeDay": 18,
-    "timeWeek": 47,
-    "timeMonth": 50,
-    "timeYear": 50,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 48,
+    "timeDay": 17,
+    "timeWeek": 43,
+    "timeMonth": 48,
+    "timeYear": 48,
     "dailyMinutesDown": {
-      "2021-09-24": 0
+      "2021-09-24": 25
     }
   },
   {

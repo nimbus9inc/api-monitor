@@ -5,11 +5,11 @@
     "icon": "https://nimbus9.co/wp-content/uploads/2016/09/Widget2-150x150.png",
     "slug": "nimbus9-marketing-site",
     "status": "up",
-    "uptime": "99.43%",
+    "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.43%",
+    "uptimeYear": "99.44%",
     "time": 805,
     "timeDay": 464,
     "timeWeek": 732,
@@ -30,36 +30,39 @@
     "url": "https://api.nimbus9.io",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-api-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 613,
+    "time": 614,
     "timeDay": 277,
     "timeWeek": 477,
     "timeMonth": 610,
     "timeYear": 625,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-24": 1
+    }
   },
   {
     "name": "Unifi Enterprise",
     "url": "https://unifi-enterprise.nimbus9.io",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "unifi-enterprise",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.22%",
-    "time": 410,
+    "time": 411,
     "timeDay": 441,
     "timeWeek": 500,
     "timeMonth": 453,
     "timeYear": 449,
     "dailyMinutesDown": {
+      "2023-03-24": 1,
       "2022-11-07": 1347,
       "2022-11-06": 1440,
       "2022-11-05": 1303
@@ -70,28 +73,30 @@
     "url": "https://eqm.nimbus9.io",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "environment-quality-management",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 315,
+    "time": 316,
     "timeDay": 182,
     "timeWeek": 283,
     "timeMonth": 324,
     "timeYear": 335,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-24": 1
+    }
   },
   {
     "name": "Site Admin Panel",
     "url": "https://admin.nimbus9.io",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "site-admin-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 314,
@@ -99,35 +104,39 @@
     "timeWeek": 290,
     "timeMonth": 315,
     "timeYear": 337,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-24": 1
+    }
   },
   {
     "name": "Partner Quoting Tool",
     "url": "https://quote.nimbus9.io",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "partner-quoting-tool",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 295,
+    "time": 294,
     "timeDay": 123,
     "timeWeek": 206,
     "timeMonth": 301,
     "timeYear": 312,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-24": 1
+    }
   },
   {
     "name": "Nimbus9 SSO",
     "url": "https://sso.nimbus9.io",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-sso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 386,
@@ -136,6 +145,7 @@
     "timeMonth": 430,
     "timeYear": 400,
     "dailyMinutesDown": {
+      "2023-03-24": 1,
       "2023-01-03": 21
     }
   },
@@ -144,10 +154,10 @@
     "url": "https://api.nimbus9.io/v2/auth/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-auth-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 239,
@@ -156,6 +166,7 @@
     "timeMonth": 213,
     "timeYear": 225,
     "dailyMinutesDown": {
+      "2023-03-24": 1,
       "2023-01-03": 21
     }
   },
@@ -164,10 +175,10 @@
     "url": "https://api.nimbus9.io/v2/adr/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-automated-demand-response-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 58,
@@ -176,6 +187,7 @@
     "timeMonth": 54,
     "timeYear": 57,
     "dailyMinutesDown": {
+      "2023-03-24": 1,
       "2023-01-03": 21
     }
   },
@@ -184,18 +196,19 @@
     "url": "https://api.nimbus9.io/v2/audit/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-audit-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 59,
+    "time": 58,
     "timeDay": 24,
     "timeWeek": 43,
     "timeMonth": 54,
     "timeYear": 57,
     "dailyMinutesDown": {
+      "2023-03-24": 1,
       "2023-01-03": 21
     }
   },
@@ -204,10 +217,10 @@
     "url": "https://api.nimbus9.io/v2/billing/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-billing-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 58,
@@ -216,6 +229,7 @@
     "timeMonth": 54,
     "timeYear": 57,
     "dailyMinutesDown": {
+      "2023-03-24": 1,
       "2023-01-03": 21
     }
   },
@@ -224,10 +238,10 @@
     "url": "https://api.nimbus9.io/v2/commission/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-device-commissioning-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 59,
@@ -236,6 +250,7 @@
     "timeMonth": 54,
     "timeYear": 58,
     "dailyMinutesDown": {
+      "2023-03-24": 1,
       "2023-01-03": 21
     }
   },
@@ -244,10 +259,10 @@
     "url": "https://api.nimbus9.io/v2/control/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-device-control-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 58,
@@ -256,6 +271,7 @@
     "timeMonth": 54,
     "timeYear": 57,
     "dailyMinutesDown": {
+      "2023-03-24": 1,
       "2023-01-03": 21
     }
   },
@@ -264,10 +280,10 @@
     "url": "https://api.nimbus9.io/v2/eca/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-event-condition-action-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 58,
@@ -276,6 +292,7 @@
     "timeMonth": 54,
     "timeYear": 57,
     "dailyMinutesDown": {
+      "2023-03-24": 1,
       "2023-01-03": 21
     }
   },
@@ -284,10 +301,10 @@
     "url": "https://api.nimbus9.io/v2/floor-plan/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-floor-plan-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 57,
@@ -296,6 +313,7 @@
     "timeMonth": 54,
     "timeYear": 57,
     "dailyMinutesDown": {
+      "2023-03-24": 1,
       "2023-01-03": 21
     }
   },
@@ -304,18 +322,19 @@
     "url": "https://api.nimbus9.io/v2/hvac/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-hvac-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 59,
+    "time": 58,
     "timeDay": 26,
     "timeWeek": 43,
     "timeMonth": 54,
     "timeYear": 57,
     "dailyMinutesDown": {
+      "2023-03-24": 1,
       "2023-01-03": 21
     }
   },
@@ -324,10 +343,10 @@
     "url": "https://api.nimbus9.io/v2/metrics/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-metrics-api",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 59,
@@ -336,6 +355,7 @@
     "timeMonth": 54,
     "timeYear": 57,
     "dailyMinutesDown": {
+      "2023-03-24": 1,
       "2023-01-03": 21
     }
   },
@@ -344,10 +364,10 @@
     "url": "https://api.nimbus9.io/v2/notification/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-notification-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 58,
@@ -356,6 +376,7 @@
     "timeMonth": 54,
     "timeYear": 57,
     "dailyMinutesDown": {
+      "2023-03-24": 1,
       "2023-01-03": 21
     }
   },
@@ -364,10 +385,10 @@
     "url": "https://api.nimbus9.io/v2/passport/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-passport-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 58,
@@ -376,6 +397,7 @@
     "timeMonth": 54,
     "timeYear": 57,
     "dailyMinutesDown": {
+      "2023-03-24": 1,
       "2023-01-03": 37
     }
   },
@@ -384,10 +406,10 @@
     "url": "https://api.nimbus9.io/v2/quote/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-quote-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 59,
@@ -396,6 +418,7 @@
     "timeMonth": 54,
     "timeYear": 57,
     "dailyMinutesDown": {
+      "2023-03-24": 1,
       "2023-01-03": 21
     }
   },
@@ -404,10 +427,10 @@
     "url": "https://api.nimbus9.io/v2/update/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-real-time-update-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 58,
@@ -416,6 +439,7 @@
     "timeMonth": 55,
     "timeYear": 57,
     "dailyMinutesDown": {
+      "2023-03-24": 1,
       "2023-01-03": 21
     }
   },
@@ -424,7 +448,7 @@
     "url": "https://api.nimbus9.io/v2/report/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-reporting-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -444,7 +468,7 @@
     "url": "https://api.nimbus9.io/v2/astro/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-routine-schedule-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -464,7 +488,7 @@
     "url": "https://api.nimbus9.io/v2/smart-control/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-smart-control-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -484,7 +508,7 @@
     "url": "https://api.nimbus9.io/v2/switch-sensor/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-switch-sensor-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",

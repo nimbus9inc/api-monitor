@@ -1,7 +1,7 @@
 url: https://api.nimbus9.io/v2/adr/health
 status: up
 code: 200
-responseTime: 81
-lastUpdated: 2023-11-27T23:17:36.650Z
+responseTime: 40
+lastUpdated: 2023-11-28T23:17:10.287Z
 startTime: 2021-09-16T22:44:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>

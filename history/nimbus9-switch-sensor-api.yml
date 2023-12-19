@@ -1,7 +1,7 @@
 url: https://api.nimbus9.io/v2/switch-sensor/health
 status: up
 code: 200
-responseTime: 25
-lastUpdated: 2023-12-18T23:17:38.188Z
+responseTime: 90
+lastUpdated: 2023-12-19T23:14:01.247Z
 startTime: 2021-09-16T22:44:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>

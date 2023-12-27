@@ -1,7 +1,7 @@
 url: https://api.nimbus9.io/v2/notification/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-26T23:19:37.815Z
+status: up
+code: 200
+responseTime: 85
+lastUpdated: 2023-12-27T01:19:51.742Z
 startTime: 2021-09-16T22:44:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>

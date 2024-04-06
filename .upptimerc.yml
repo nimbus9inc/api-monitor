@@ -5,6 +5,10 @@ repo: api-monitor # The name of this repository
 sites:
 
   # Static sites
+  - name: Nimbus9 Marketing Site
+    url: https://nimbusnine.co
+    icon: https://nimbus9.co/wp-content/uploads/2016/09/Widget2-150x150.png
+    
   - name: Nimbus9 API Documentation
     url: https://api.nimbus9.io
     icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg

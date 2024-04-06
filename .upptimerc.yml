@@ -9,21 +9,22 @@ sites:
     url: https://api.nimbus9.io
     icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
 
-  - name: Unifi Enterprise
-    url: https://unifi-enterprise.nimbus9.io
-    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
-
-  - name: Environment Quality Management
-    url: https://eqm.nimbus9.io
-    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
-
-  - name: Site Admin Panel
-    url: https://admin.nimbus9.io
-    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
-
-  - name: Partner Quoting Tool
-    url: https://quote.nimbus9.io
-    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
+# TODO: Uncomment once https://github.com/upptime/upptime/issues/634 is resolved.
+#  - name: Unifi Enterprise
+#    url: https://unifi-enterprise.nimbus9.io
+#    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
+#
+#  - name: Environment Quality Management
+#    url: https://eqm.nimbus9.io
+#    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
+#
+#  - name: Site Admin Panel
+#    url: https://admin.nimbus9.io
+#    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
+#
+#  - name: Partner Quoting Tool
+#    url: https://quote.nimbus9.io
+#    icon: https://admin.nimbus9.io/assets/img/nimbus9-logo.svg
 
   # SSO
   - name: Nimbus9 SSO

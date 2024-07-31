@@ -1,7 +1,7 @@
 url: https://api.nimbus9.io/v2/metrics/health
 status: up
 code: 200
-responseTime: 37
-lastUpdated: 2024-07-30T23:16:17.335Z
+responseTime: 84
+lastUpdated: 2024-07-31T23:18:20.423Z
 startTime: 2021-09-16T22:44:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>

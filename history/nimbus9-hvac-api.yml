@@ -1,7 +1,7 @@
 url: https://api.nimbus9.io/v2/hvac/health
 status: up
 code: 200
-responseTime: 25
-lastUpdated: 2024-08-23T23:18:31.647Z
+responseTime: 60
+lastUpdated: 2024-08-24T23:18:49.751Z
 startTime: 2021-09-16T22:44:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>

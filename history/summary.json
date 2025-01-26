@@ -32,18 +32,19 @@
     "url": "https://api.nimbus9.io",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-api-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 744,
+    "time": 743,
     "timeDay": 751,
     "timeWeek": 862,
     "timeMonth": 749,
     "timeYear": 747,
     "dailyMinutesDown": {
+      "2025-01-26": 1,
       "2024-03-25": 146,
       "2024-03-24": 71
     }
@@ -53,18 +54,19 @@
     "url": "https://sso.nimbus9.io",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-sso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 544,
+    "time": 543,
     "timeDay": 1620,
     "timeWeek": 851,
     "timeMonth": 656,
     "timeYear": 562,
     "dailyMinutesDown": {
+      "2025-01-26": 1,
       "2024-03-25": 147,
       "2024-03-24": 71
     }
@@ -74,10 +76,10 @@
     "url": "https://api.nimbus9.io/v2/auth/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-auth-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 103,
@@ -86,6 +88,7 @@
     "timeMonth": 67,
     "timeYear": 64,
     "dailyMinutesDown": {
+      "2025-01-26": 1,
       "2024-03-25": 147,
       "2024-03-24": 71
     }
@@ -95,10 +98,10 @@
     "url": "https://api.nimbus9.io/v2/adr/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-automated-demand-response-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 64,
@@ -107,6 +110,7 @@
     "timeMonth": 67,
     "timeYear": 64,
     "dailyMinutesDown": {
+      "2025-01-26": 1,
       "2024-03-25": 147,
       "2024-03-24": 71
     }
@@ -116,10 +120,10 @@
     "url": "https://api.nimbus9.io/v2/audit/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-audit-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 64,
@@ -128,6 +132,7 @@
     "timeMonth": 68,
     "timeYear": 64,
     "dailyMinutesDown": {
+      "2025-01-26": 1,
       "2024-03-25": 147,
       "2024-03-24": 71
     }
@@ -137,10 +142,10 @@
     "url": "https://api.nimbus9.io/v2/billing/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-billing-api",
-    "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 64,
@@ -149,6 +154,7 @@
     "timeMonth": 68,
     "timeYear": 64,
     "dailyMinutesDown": {
+      "2025-01-26": 1,
       "2024-03-25": 147,
       "2024-03-24": 71
     }
@@ -158,10 +164,10 @@
     "url": "https://api.nimbus9.io/v2/commission/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-device-commissioning-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 64,
@@ -170,6 +176,7 @@
     "timeMonth": 67,
     "timeYear": 64,
     "dailyMinutesDown": {
+      "2025-01-26": 1,
       "2024-03-25": 147,
       "2024-03-24": 71
     }
@@ -179,10 +186,10 @@
     "url": "https://api.nimbus9.io/v2/control/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-device-control-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.94%",
     "time": 64,
@@ -191,6 +198,7 @@
     "timeMonth": 65,
     "timeYear": 64,
     "dailyMinutesDown": {
+      "2025-01-26": 1,
       "2025-01-17": 105,
       "2025-01-16": 1,
       "2024-03-25": 147,
@@ -202,10 +210,10 @@
     "url": "https://api.nimbus9.io/v2/eca/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-event-condition-action-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 64,
@@ -214,6 +222,7 @@
     "timeMonth": 67,
     "timeYear": 64,
     "dailyMinutesDown": {
+      "2025-01-26": 1,
       "2024-03-25": 147,
       "2024-03-24": 71
     }
@@ -223,10 +232,10 @@
     "url": "https://api.nimbus9.io/v2/floor-plan/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-floor-plan-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 64,
@@ -235,6 +244,7 @@
     "timeMonth": 67,
     "timeYear": 64,
     "dailyMinutesDown": {
+      "2025-01-26": 1,
       "2024-03-25": 147,
       "2024-03-24": 71
     }
@@ -244,10 +254,10 @@
     "url": "https://api.nimbus9.io/v2/hvac/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-hvac-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 64,
@@ -256,6 +266,7 @@
     "timeMonth": 67,
     "timeYear": 64,
     "dailyMinutesDown": {
+      "2025-01-26": 1,
       "2024-03-25": 147,
       "2024-03-24": 71
     }
@@ -265,10 +276,10 @@
     "url": "https://api.nimbus9.io/v2/metrics/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-metrics-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 64,
@@ -277,6 +288,7 @@
     "timeMonth": 67,
     "timeYear": 64,
     "dailyMinutesDown": {
+      "2025-01-26": 1,
       "2024-03-25": 147,
       "2024-03-24": 71
     }
@@ -286,10 +298,10 @@
     "url": "https://api.nimbus9.io/v2/notification/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-notification-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 64,
@@ -298,6 +310,7 @@
     "timeMonth": 67,
     "timeYear": 64,
     "dailyMinutesDown": {
+      "2025-01-26": 1,
       "2024-03-25": 147,
       "2024-03-24": 71
     }
@@ -307,10 +320,10 @@
     "url": "https://api.nimbus9.io/v2/passport/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-passport-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 64,
@@ -319,6 +332,7 @@
     "timeMonth": 68,
     "timeYear": 64,
     "dailyMinutesDown": {
+      "2025-01-26": 1,
       "2024-03-25": 147,
       "2024-03-24": 71
     }
@@ -328,10 +342,10 @@
     "url": "https://api.nimbus9.io/v2/quote/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-quote-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 65,
@@ -340,6 +354,7 @@
     "timeMonth": 68,
     "timeYear": 65,
     "dailyMinutesDown": {
+      "2025-01-26": 1,
       "2024-03-25": 147,
       "2024-03-24": 71
     }
@@ -349,10 +364,10 @@
     "url": "https://api.nimbus9.io/v2/update/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-real-time-update-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 65,
@@ -361,6 +376,7 @@
     "timeMonth": 69,
     "timeYear": 64,
     "dailyMinutesDown": {
+      "2025-01-26": 1,
       "2024-03-25": 147,
       "2024-03-24": 71
     }
@@ -370,10 +386,10 @@
     "url": "https://api.nimbus9.io/v2/report/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-reporting-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 64,
@@ -382,6 +398,7 @@
     "timeMonth": 67,
     "timeYear": 64,
     "dailyMinutesDown": {
+      "2025-01-26": 1,
       "2024-03-25": 147,
       "2024-03-24": 70
     }
@@ -391,10 +408,10 @@
     "url": "https://api.nimbus9.io/v2/astro/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-routine-schedule-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 64,
@@ -403,6 +420,7 @@
     "timeMonth": 68,
     "timeYear": 64,
     "dailyMinutesDown": {
+      "2025-01-26": 1,
       "2024-03-25": 147,
       "2024-03-24": 70
     }
@@ -412,10 +430,10 @@
     "url": "https://api.nimbus9.io/v2/smart-control/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-smart-control-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 64,
@@ -424,6 +442,7 @@
     "timeMonth": 67,
     "timeYear": 64,
     "dailyMinutesDown": {
+      "2025-01-26": 1,
       "2024-03-25": 147,
       "2024-03-24": 70
     }
@@ -433,10 +452,10 @@
     "url": "https://api.nimbus9.io/v2/switch-sensor/health",
     "icon": "https://admin.nimbus9.io/assets/img/nimbus9-logo.svg",
     "slug": "nimbus9-switch-sensor-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 64,
@@ -445,6 +464,7 @@
     "timeMonth": 67,
     "timeYear": 64,
     "dailyMinutesDown": {
+      "2025-01-26": 1,
       "2024-03-25": 147,
       "2024-03-24": 70
     }

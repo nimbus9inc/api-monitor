@@ -1,7 +1,7 @@
 url: https://api.nimbus9.io/v2/auth/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-27T23:19:38.833Z
+status: up
+code: 200
+responseTime: 93
+lastUpdated: 2025-01-28T04:09:40.316Z
 startTime: 2021-09-16T22:44:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -4,17 +4,17 @@
     "url": "https://nimbusnine.co",
     "icon": "https://nimbus9.co/wp-content/uploads/2016/09/Widget2-150x150.png",
     "slug": "nimbus9-marketing-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "93.27%",
-    "uptimeMonth": "96.97%",
-    "uptimeYear": "99.39%",
-    "time": 1944,
-    "timeDay": 2170,
-    "timeWeek": 2021,
-    "timeMonth": 2413,
-    "timeYear": 1248,
+    "uptimeDay": "95.81%",
+    "uptimeWeek": "92.67%",
+    "uptimeMonth": "96.83%",
+    "uptimeYear": "99.38%",
+    "time": 1946,
+    "timeDay": 1971,
+    "timeWeek": 1989,
+    "timeMonth": 2395,
+    "timeYear": 1249,
     "dailyMinutesDown": {
       "2025-06-22": 35,
       "2025-06-28": 34,
@@ -63,7 +63,7 @@
       "2026-05-18": 438,
       "2026-05-17": 25,
       "2026-05-23": 215,
-      "2026-05-24": 0
+      "2026-05-24": 60
     }
   },
   {
